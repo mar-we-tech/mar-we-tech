@@ -4,8 +4,7 @@
 - 💞️ I'm willing to work on anything! I want to learn and would be happy to work with someone on some projects.
 - @ How to reach me: MarWe0410@gmail.com
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: I just started learning to code for real a few months ago. Before I was just like touching and understanding, but not doing it myself.
-
+- ⚡ Future:  I want to get a 3D printer one day to make more amazing projects!
 <!---
 mar-we-tech/mar-we-tech is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.

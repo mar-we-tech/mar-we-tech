@@ -1,10 +1,16 @@
-- 👋 Hi, I'm @mar-we-tech, a deaf myselflearned-dev. 
-- 👀 I'm interested in writing code and making something new.
-- 🌱 I'm currently learning 2D and 3D in C#. I am currently using Godot to make a 3D based tower defense game.
-- 💞️ I'm willing to work on anything! I want to learn and would be happy to work with someone on some projects.
-- @ How to reach me: MarWe0410@gmail.com
-- 😄 Pronouns: he/him
-- ⚡ Future:  I want to get a 3D printer one day to make more amazing projects!
+👋 Hi, I'm @mar-we-tech – a deaf, self-taught developer and future IT professional.
+
+👀 I love writing code and creating new things from scratch.
+
+🌱 I'm currently learning 2D and 3D game development in Godot, GameMaker, and more. Right now, I'm working in GameMaker on a special 2D game for someone close to me.
+
+💞️ I'm open to collaborating on any kind of project! I'm eager to learn and would be happy to work together with others.
+
+📬 You can reach me at marwe-tech@gmail.com
+
+😄 Pronouns: he/him
+
+⚡ Future goal: I'd love to own a 3D printer one day to build even more awesome things!
 <!---
 mar-we-tech/mar-we-tech is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
